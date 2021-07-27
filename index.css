@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, Arial, sans-serif
+}
+
+body {
+  margin: 0 5px;
+}
+
+.header-img {
+  background-image: url('./src/pattern.webp');
+  margin-top: 20px;
+}
+
+#heading-top {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
