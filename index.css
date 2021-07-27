@@ -5,12 +5,11 @@
 }
 
 body {
-  margin: 0 5px;
+  margin: 40px 10px;
 }
 
-.header-img {
+.header {
   background-image: url('./src/pattern.webp');
-  margin-top: 20px;
 }
 
 #heading-top {
@@ -20,3 +19,39 @@ body {
   text-align: center;
 }
 
+.main, .frames, .paint {
+  margin: 50px 0;
+}
+
+.heading-brushes, .heading-frames, .heading-paint {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 30px;
+  padding: 10px 5px;
+}
+
+.heading-paragraph {
+  margin-top: 10px;
+}
+
+.heading-brushes {
+  background-color: mediumspringgreen;
+}
+
+.heading-frames {
+  background-color: blue;
+}
+
+.heading-paint {
+  background-color: skyblue;
+}
+
+.text {
+  margin-top: 20px;
+}
+
+span {
+  color: blue;
+  font-weight: bold;
+}
