@@ -19,7 +19,7 @@ body {
   text-align: center;
 }
 
-.main, .frames, .paint {
+#brushes, #frames, #paint {
   margin: 50px 0;
 }
 
