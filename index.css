@@ -47,11 +47,11 @@ body {
   background-color: skyblue;
 }
 
-.text {
+h3 {
   margin-top: 20px;
 }
 
-span {
+.price {
   color: blue;
   font-weight: bold;
 }
